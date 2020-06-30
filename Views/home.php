@@ -38,4 +38,4 @@ $this->title = 'Yii2 CRUD App';
 
 </tbody>
 </table>
-</body>
+
